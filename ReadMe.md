@@ -1,4 +1,9 @@
+# Sey Hey
 # Rehber
+
+Midjourney İçin Faydalı Prompt'lar
+
+
 33 
 
 #asd 
