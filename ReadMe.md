@@ -1,7 +1,5 @@
 # Midjourney İçin Faydalı Promptlar
-        _GPTürkiye
-_
-
+            GPTürkiye
 
 33 
 
