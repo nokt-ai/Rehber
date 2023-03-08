@@ -1,7 +1,6 @@
-# Sey Hey
-# Rehber
-
-Midjourney İçin Faydalı Prompt'lar
+# Midjourney İçin Faydalı Promptlar
+        _GPTürkiye
+_
 
 
 33 
