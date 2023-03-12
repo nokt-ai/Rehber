@@ -2,6 +2,10 @@
 Giriş
 Hazırladığımız rehber, yazı karşılığında resim çizen yapay zeka Midjourney için başlangıç seviyesinde 
 
+[Deneme Görseli] (https://cdn.discordapp.com/attachments/1016026195072135198/1084516511680569445/Jinglemisk_Oil_Painting_Ancient_Egpyt_Nile_River_barges_fisherm_21274377-1757-49e5-8c14-f50c85a51f90.png)
+
+
+
 Bu kılavuz, temel ve orta seviye ipuçlarını kapsayacak ve sizi Midjourney'de ipucu yazmaya yaklaşma adımlarına götürecektir. Midjourney bot, yazma becerilerinizi geliştirmek için mükemmel bir başlangıç noktası olabilir, özellikle de ipucu yazmaya yaklaşmak söz konusu olduğunda. Çok yönlü bir araç olarak, ipucu yazma pratiği yapmak, geri bildirim almak ve yazma stilinizi geliştirmek için bir platform sağlar. Ayrıca, ister deneyimli bir yazar olun ister yeni başlıyor olun, genel olarak yazma ipuçlarına yaklaşmak için bir basamak görevi görebilir. Kendinizden emin bir şekilde yazmanıza ve becerilerinizi geliştirmenize yardımcı olmak için çok sayıda örnek sunulacaktır.
 Dil Engelini Aşmak
 Yapay zekaların çoğunluğu kendilerine Türkçe verilen prompt’ları anlamakta pek güçlük çekmeyip, çoğu zaman da zorlanmadan Türkçe cevap verebilmektedirler. ChatGPT, Midjourney gibi en sık kullanılan yapay zekalar her ne kadar bu koşulları karşılayabilseler de kavrayışlarının eksik, Türkçelerinin de hantal ve gündelik konuşma dilinden uzak olduğunu görüyoruz. Beslendiği kaynakların ağırlığı Türkçe olmayan her yapay zeka, aynı sorunu yaşayacaktır. 
