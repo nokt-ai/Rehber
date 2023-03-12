@@ -4,6 +4,8 @@ Hazırladığımız rehber, yazı karşılığında resim çizen yapay zeka Midj
 
 [Deneme Görseli] (https://cdn.discordapp.com/attachments/1016026195072135198/1084516511680569445/Jinglemisk_Oil_Painting_Ancient_Egpyt_Nile_River_barges_fisherm_21274377-1757-49e5-8c14-f50c85a51f90.png)
 
+https://github.com/GPTurkiye/Rehber/blob/main/deta%C4%B1lemaster.png
+
 
 
 Bu kılavuz, temel ve orta seviye ipuçlarını kapsayacak ve sizi Midjourney'de ipucu yazmaya yaklaşma adımlarına götürecektir. Midjourney bot, yazma becerilerinizi geliştirmek için mükemmel bir başlangıç noktası olabilir, özellikle de ipucu yazmaya yaklaşmak söz konusu olduğunda. Çok yönlü bir araç olarak, ipucu yazma pratiği yapmak, geri bildirim almak ve yazma stilinizi geliştirmek için bir platform sağlar. Ayrıca, ister deneyimli bir yazar olun ister yeni başlıyor olun, genel olarak yazma ipuçlarına yaklaşmak için bir basamak görevi görebilir. Kendinizden emin bir şekilde yazmanıza ve becerilerinizi geliştirmenize yardımcı olmak için çok sayıda örnek sunulacaktır.
