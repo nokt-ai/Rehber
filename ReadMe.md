@@ -165,7 +165,7 @@ Remaster’ladığımız görsel aslında ana içerik olarak yukarıdaki yorumla
 
 ## Sonuçların Karşılaştırılması
 
-Demin ele aldığımız Nil Nehri örneği üzerinden devam edelim:
+Demin ele aldığımız Nil Nehri örneği üzerinden devam edelim. Görselleri tam çözünürlükte incelemek için üstlerine tıklamayı unutmayın:
 
 <p align="left">
   <img src="/Görseller/cozunurluk-arayuzu-4.png" alt="Alt text" width="350">
