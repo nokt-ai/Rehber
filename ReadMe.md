@@ -1,5 +1,33 @@
 # GPTürkiye Midjourney Prompt Rehberi
 
+[Giriş](https://github.com/GPTurkiye/Rehber#giri%C5%9F)
+
+[Dil Engelini Aşmak](https://github.com/GPTurkiye/Rehber#dil-engelini-a%C5%9Fmak)
+
+[Başlangıç](https://github.com/GPTurkiye/Rehber#ba%C5%9Flang%C4%B1%C3%A7)
+
+  [___/imagine](https://github.com/GPTurkiye/Rehber#imagine)
+  
+  [___/info](https://github.com/GPTurkiye/Rehber#info)
+  
+  [___Arayüz](https://github.com/GPTurkiye/Rehber#aray%C3%BCz)
+  
+[Çözünürlük Arayüzü](https://github.com/GPTurkiye/Rehber#%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCk-aray%C3%BCz%C3%BC)
+
+  [___Varyant Alma](https://github.com/GPTurkiye/Rehber#make-variations)
+  
+  [___Hafif & Detaylı Yükseltme](https://github.com/GPTurkiye/Rehber#light--detailed-upscale)
+  
+  [___Beta Sürümü Yükeltme](https://github.com/GPTurkiye/Rehber#beta-upscale)
+  
+  [___Şaşırt Beni](https://github.com/GPTurkiye/Rehber#remaster)
+  
+[Sonuçların Karşılaştırılması](https://github.com/GPTurkiye/Rehber#sonu%C3%A7lar%C4%B1n-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1r%C4%B1lmas%C4%B1)
+
+[Sırada Ne Var?](https://github.com/GPTurkiye/Rehber#s%C4%B1rada-ne-var)
+
+[Bize Katılın!](https://github.com/GPTurkiye/Rehber#bize-kat%C4%B1l%C4%B1n)
+
 
 [Topluluğumuza buradan ulaşabilirsiniz!](https://linktr.ee/gpturkiye)
 
@@ -135,32 +163,31 @@ Herhangi bir fotoğraf için Upscaling yaptığımızda, örneğin U2 tuşuna ba
   <img src="/Görseller/cozunurluk-arayuzu-1.png" alt="Alt text" width="350">
 </p>
 
-### Make Variations 
-Görselin şu anki halinin varyantını alır ve dört yeni görsel oluşturur, V3 gibi V-tipi tuşlarla aynı mantıkta çalışır.
+### Varyant Alma
+**Make Variations,** Görselin şu anki halinin varyantını alır ve dört yeni görsel oluşturur, V3 gibi V-tipi tuşlarla aynı mantıkta çalışır.
 
 Beğendiğimiz bir yorumlamayı çeşitlendirmek için varyant almadan evvel sabretmek daha akıllıca olabilir. Eğer bu görselin detaylarını çeşitlendirirsek, ve bu halinin varyantlarını alırsak, o halde Midjourney istediğimiz yorumlamaya daha çabuk bile ulaşabilir.
 
-### Light & Detailed Upscale
-Light Upscale Redo: Görselin çözünürlüğünü yükseltmeden, ebatı aynı bırakarak detaylarını çeşitlendirir (Beta Upscale Redo’nun tam tersi gibi işler). Bu seçeneğe tıkladığımızda karşımıza yeni bir seçenek daha çıkar:
+### Hafif & Detaylı Yükseltme
+**Light Upscale Redo,** Görselin çözünürlüğünü yükseltmeden, ebatı aynı bırakarak detaylarını çeşitlendirir (Beta Upscale Redo’nun tam tersi gibi işler). Bu seçeneğe tıkladığımızda karşımıza yeni bir seçenek daha çıkar:
 
 <p align="left">
   <img src="/Görseller/cozunurluk-arayuzu-2.png" alt="Alt text" width="350">
 </p>
 
-### Detailed Upscale Redo 
-Light Upscale Redo ile detaylandırılmış bir görselin çözünürlüğünü de yükseltir.
+**Detailed Upscale Redo,** Light Upscale Redo ile detaylandırılmış bir görselin çözünürlüğünü de yükseltir.
 
-### Beta Upscale
+### Beta Sürümü Yükseltme
 Görselin detaylarını çeşitlendirmeden çözünürlüğünü yükseltir (Light Upscale Redo’nun tam tersi gibi işler).
 
-### Remaster
-Midjourney’in test sürümlerine başvurarak fotoğrafı tekrar yorumlar.
+### Şaşırt Beni
+Midjourney’in test sürümlerine başvurarak görseli tekrar yorumlar. Ne yapacağı hiç belli olmayabilir.
 
 <p align="left">
   <img src="/Görseller/cozunurluk-arayuzu-3.png" alt="Alt text" width="350">
 </p>
 
-Remaster’ladığımız görsel aslında ana içerik olarak yukarıdaki yorumlamalarla çok benzeşiyor. Fakat “içerik” diye yorumladıklarımız, yani gemi, balıkçılar, nehir, çöl havası gibi nesnelere farklı bir dokunuş getiriliyor. Remaster bize tek bir sonuç verir (ve bir tam sorgu hakkı kullanır)
+Remaster’ladığımız görsel aslında ana içerik olarak yukarıdaki yorumlamalarla çok benzeşiyor. Fakat “içerik” diye yorumladıklarımız, yani gemi, balıkçılar, nehir, çöl havası gibi nesnelere farklı bir dokunuş getiriliyor. Remaster bize tek bir sonuç verir (ve bir tam sorgu hakkı kullanır), bu yüzden varyant almak için biraz masraflı olabilir.
 
 
 ## Sonuçların Karşılaştırılması
