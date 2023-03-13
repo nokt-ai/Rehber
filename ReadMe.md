@@ -99,7 +99,7 @@ Türkçe halinde bir “iş adamı”nı bile kavrayamadı, bunun yerine sokakla
   <img src="/Görseller/dil-engelini-asmak-8.png" alt="Alt text" width="350">
 </p>
 
-Eğer prompt’ları istediğimiz biçimde İngilizce’de düşünmekte zorlanıyorsak, [DeepL](https://www.deepl.com/translator) gibi bir tercüman kullanarak istediklerimizi Midjourney’e aktarabiliriz. Bu rehberde aktarmaya çalıştığımız prompt yazım mantığına uyulduğu takdirde, Midjourney kendisine veirlen Türkçe’den çevrilmiş İngilizce prompt’ları yorumlamakta güçlük çekmeyecektir. Midjourney kullanmak için katılacağınız Discord kanalında da beğendiğiniz görsellerin prompt'Larını DeepL aracılığıyla Türkçe'ye çevirebilir, prompt mantığı
+Eğer prompt’ları istediğimiz biçimde İngilizce’de düşünmekte zorlanıyorsak, [DeepL](https://www.deepl.com/translator) gibi bir tercüman kullanarak istediklerimizi Midjourney’e aktarabiliriz. Bu rehberde aktarmaya çalıştığımız prompt yazım mantığına uyulduğu takdirde, Midjourney kendisine veirlen Türkçe’den çevrilmiş İngilizce prompt’ları yorumlamakta güçlük çekmeyecektir. Midjourney kullanmak için katılacağınız Discord kanalında da beğendiğiniz görsellerin prompt'larını DeepL aracılığıyla Türkçe'ye çevirebilir, prompt mantığına biraz daha hakim olabilirsiniz.
 
 
 ## Başlangıç
