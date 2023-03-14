@@ -29,7 +29,9 @@
 [Bize Katılın!](https://github.com/GPTurkiye/Rehber#bize-kat%C4%B1l%C4%B1n)
 
 
-[Topluluğumuza buradan ulaşabilirsiniz!](https://linktr.ee/gpturkiye)
+
+
+[Topluluğumuz](https://linktr.ee/gpturkiye)
 
 
 ## Giriş
