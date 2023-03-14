@@ -151,7 +151,7 @@ Midjourney’de aklımızdaki görsele en yakın yorumlamaya ulaşmak için, yaz
 
 ``` /relax ``` komutunun en büyük faydası da burada ortaya çıkıyor. Eğer acelemiz yoksa, ve bolca aramayı paralelde yürütüp elde ettiğimiz yorumlamaları detaylı incelemek istiyorsak, ``` /relax ``` modda çalışıp biraz vakitten fedakarlık edip fotoğraf üretme hakkımızdan kazanıyoruz. Özellikle de başka bir iş ile meşgulsek, bu modda çalışıp örneğin beş dakikada bir Midjourney’e bakmak süreci keyifli olduğu kadar verimli hale getirebiliyor.
 
-Elimizdeki sorgular biriktiğine göre, çözünürlük arttırmak ve son rötuşları atmak hakkında bilgi sahibi olabiliriz.
+Elimizdeki sorgular biriktiğine göre, çözünürlük arttırmak ve son rötuşları atmaya geçebiliriz.
 
 
 ## Çözünürlük Arayüzü
