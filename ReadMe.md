@@ -118,7 +118,7 @@ Midjourney’de her prompt ``` /imagine ``` yazılarak başlar. Discord, bunu ya
 “Prompt” kelimesinin içinde bulunduğu kutucuğa yazdığımız her şey, Midjourney tarafından prompt olarak kabul edilir ve yorumlamaya dahil olur. Süreç şöyle özetlenebilir:
 
 1) ``` /imagine ``` yazılır ve boşluk tuşuna basılır. Bir kutucuk oluşur.
-2) İstenilen prompt yazılır: Örneğin: ``` Dogs running by the beach, ocean, ships (“Kumsalda, okyanusta, gemilerde koşan köpekler”) ```
+2) İstenilen prompt yazılır: Örneğin: ``` Dogs running by the beach, ocean, ships (“Kumsalda koşan köpekler, okyanus, gemiler”) ```
 3) Enter’a basılır.
 
 ### /info
